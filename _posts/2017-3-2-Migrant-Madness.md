@@ -2,13 +2,13 @@
 layout: post
 title: Migrant Madness
 ---
-
+ 
 # Migrant Madness: #
-
+ 
 ## Why we need pragmatic but humane responses to refugees and immigration. ##
-
+ 
 ### John C. Nash ###
-
+ 
 #### 2017-3-2 ####
 
 Refugees and migrants have been with us for as long as humans have had social groupings. Today 
