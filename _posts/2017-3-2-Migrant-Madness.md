@@ -4,7 +4,7 @@ title: Migrant Madness
 ---
 
 #Migrant Madness:#
-
+ 
 ##Why we need pragmatic but humane responses to refugees and immigration.##
 
 ###John C. Nash###
