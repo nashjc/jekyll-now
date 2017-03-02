@@ -3,13 +3,13 @@ layout: post
 title: Migrant Madness
 ---
 
-#Migrant Madness:#
+# Migrant Madness: #
 
-##Why we need pragmatic but humane responses to refugees and immigration.##
+## Why we need pragmatic but humane responses to refugees and immigration. ##
 
-###John C. Nash###
+### John C. Nash ###
 
-####2017-3-2####
+#### 2017-3-2 ####
 
 Refugees and migrants have been with us for as long as humans have had social groupings. Today 
 there is talk of a "migrant crisis", with many voices calling for action to "deal with" the
@@ -39,7 +39,7 @@ secondary. If migrants overwhelm the resources of a country -- and we see signs 
 at this time in early 2017 in Lebanon and to a lesser extent in Greece, Italy and Turkey --
 then eventually both citizens and migrants suffer.
 
-###Action at a distance###
+### Action at a distance ###
 
 While there is a lot of attention on migrants coming across borders, we see precious little
 action to reduce the flow. At the time of writing, a high proportion of migrants flowing 
@@ -80,7 +80,7 @@ morph from temporary aid to permanent settlement. We might as well make them civ
 where people can live and, hopefully, prosper, even if it is not where they would really like
 to be. 
 
-###Local initiatives###
+### Local initiatives ###
 
 Since we cannot unilaterally accomplish anything with the corrupt or failed regimes that 
 generate so many of the migrants we see trudging across the globe, we do need policies and
@@ -130,6 +130,7 @@ the tasks of the settlements would be to set up and manage detention facilities 
 to be criminals or otherwise impossible to integrate into Canadian society. On the other hand, those
 with good will and initiative would have a chance to become contributing members of society.
 
-I have no illusions that there would not be difficulties with such an approach.
+I have no illusions that there would not be difficulties with such an approach. But it does attempt
+to offer pragmatism with humanity.
 
 
