@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>Blogs by John C. Nash</title>
+  <link>https://nashjc.github.io</link>
+  <description>Assorted blog articles, mostly about R</description>
+  <atom:link href="https://nashjc.github.io/feed.xml" rel="self" type="application/rss+xml" />
+  <item>
+      <title>Why optim() is out of date</title>
+      <link>https://nashjc.github.io/optimoutofdate.html</link>
+      <guid isPermaLink="true">https://nashjc.github.io/optimoutofdate.html</guid>
+      <description>History of optim() and its updates</description>
+  </item>
+</channel>
+</rss> 
