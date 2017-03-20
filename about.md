@@ -12,6 +12,8 @@ the University of Ottawa.
 In this collection (nashjc.github.io), I include blogs about anything outside of
 my computing and statistical work with the **R** project.
 
+My **R** work blogs are fed to https://www.r-bloggers.com/ from https://nashjc.wordpress.com/.
+
 ### Contact me
 
 [profjcnash _at_ gmail.com](mailto:profjcnash@gmail.com)
