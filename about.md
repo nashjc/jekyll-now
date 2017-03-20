@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+**John C. Nash** is a retired professor in the Telfer School of Management of
+the University of Ottawa. 
 
-### More Information
+### This blog.
 
-A place to include any other types of information that you'd like to include about yourself.
+In this collection (nashjc.github.io), I include blogs about anything outside of
+my computing and statistical work with the **R** project.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[profjcnash _at_ gmail.com](mailto:profjcnash@gmail.com)
