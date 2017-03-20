@@ -19,7 +19,7 @@ wide, including:
 In this collection (nashjc.github.io), I include blogs about anything outside of
 my computing and statistical work with the **R** project.
 
-My **R** work blogs are fed to https://www.r-bloggers.com/ from https://nashjc.wordpress.com/.
+My **R** work blogs are fed to [[https://www.r-bloggers.com/|https://www.r-bloggers.com/]] from https://nashjc.wordpress.com/.
 
 ### Contact me
 
