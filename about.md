@@ -12,6 +12,7 @@ wide, including:
    - creative writing, especially inspired by colleagues in the Stittsville Creative Writers Group
    
         -- you can find his historical novels on https://www.obooko.com/
+        
         -- a variety of other works are on archive.org
    
    - open source software and open source ideas
