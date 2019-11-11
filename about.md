@@ -9,9 +9,10 @@ wide, including:
 
    - statistical and scientific computing
    - modern history, particularly social and industrial history
-   - creative writing, especially inspired by colleagues in the Stittsvile Creative Writers Group
+   - creative writing, especially inspired by colleagues in the Stittsville Creative Writers Group
    
-        -- you can find his historical novel of the period 1938-1947 at [https://archive.org/details/ThursdayAfternoon160507](https://archive.org/details/ThursdayAfternoon160507)
+        -- you can find his historical novels on https://www.obooko.com/
+        -- a variety of other works are on archive.org
    
    - open source software and open source ideas
    - making things work, including the creation of gadgets and fixes
