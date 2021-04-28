@@ -4,6 +4,8 @@ title: Not-So-Brave New World
 date: 2020-4-8
 ---
 
+# The Not-so-brave New World of 2020
+
 As this is being written, millions of people are staying home and distancing themselves from others. 
 There are likely differences in detail between the societal effects on different countries, but Canada
 is probably -- as it so often is -- somewhere in the middle of the array of statistics about economic,
